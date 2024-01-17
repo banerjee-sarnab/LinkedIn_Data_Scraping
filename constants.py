@@ -1,0 +1,3 @@
+LINKEDIN_USER_EMAIL = 'sarnab.kgp@gmail.com'
+LINKEDIN_USER_PASS = 'Sarnab@Kgp'
+API_KEY = 'U7ESUmj2OI3fwF1JWPruKA'

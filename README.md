@@ -1,0 +1,1 @@
+This project is about data collection and formatting. It's a scraping tool that extracts the top 10 LinkedIn User Profiles based on a given search query and the descriptions of those profiles (Like their experiences, Education, Skills, etc) in the form of a CSV file, which can be used for further analysis.
